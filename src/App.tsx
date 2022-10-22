@@ -15,7 +15,7 @@ function App() {
 			<Table.Header>
 				<Table.Row>
 					<Table.HeaderCell>{type}</Table.HeaderCell>
-					<Table.HeaderCell></Table.HeaderCell>
+					<Table.HeaderCell>DESCRIPTION</Table.HeaderCell>
 				</Table.Row>
 			</Table.Header>
 
