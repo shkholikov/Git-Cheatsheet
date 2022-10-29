@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Git-Cheatsheet/static/css/main.c0ab1b50.css",
-    "main.js": "/Git-Cheatsheet/static/js/main.0afc68fb.js",
+    "main.js": "/Git-Cheatsheet/static/js/main.ae7eb371.js",
     "react-syntax-highlighter/refractor-core-import.js": "/Git-Cheatsheet/static/js/react-syntax-highlighter/refractor-core-import.490bf31c.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_abap.7cea0c48.chunk.js",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_actionscript.87992b6e.chunk.js",
@@ -54,7 +54,7 @@
     "react-syntax-highlighter_languages_refractor_groovy.js": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_groovy.9601f8db.chunk.js",
     "react-syntax-highlighter_languages_refractor_haml.js": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_haml.062b416d.chunk.js",
     "react-syntax-highlighter_languages_refractor_handlebars.js": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_handlebars.3a6d3e56.chunk.js",
-    "react-syntax-highlighter_languages_refractor_haskell.js": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_haskell.21691e22.chunk.js",
+    "react-syntax-highlighter_languages_refractor_haskell.js": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_haskell.fdc842ef.chunk.js",
     "react-syntax-highlighter_languages_refractor_haxe.js": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_haxe.b01c17fc.chunk.js",
     "react-syntax-highlighter_languages_refractor_hpkp.js": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_hpkp.06d61880.chunk.js",
     "react-syntax-highlighter_languages_refractor_hsts.js": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_hsts.501ca03c.chunk.js",
@@ -173,7 +173,7 @@
     "static/media/outline-icons.woff2": "/Git-Cheatsheet/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/Git-Cheatsheet/index.html",
     "main.c0ab1b50.css.map": "/Git-Cheatsheet/static/css/main.c0ab1b50.css.map",
-    "main.0afc68fb.js.map": "/Git-Cheatsheet/static/js/main.0afc68fb.js.map",
+    "main.ae7eb371.js.map": "/Git-Cheatsheet/static/js/main.ae7eb371.js.map",
     "refractor-core-import.490bf31c.chunk.js.map": "/Git-Cheatsheet/static/js/react-syntax-highlighter/refractor-core-import.490bf31c.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.7cea0c48.chunk.js.map": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_abap.7cea0c48.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.87992b6e.chunk.js.map": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_actionscript.87992b6e.chunk.js.map",
@@ -226,7 +226,7 @@
     "react-syntax-highlighter_languages_refractor_groovy.9601f8db.chunk.js.map": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_groovy.9601f8db.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_haml.062b416d.chunk.js.map": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_haml.062b416d.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_handlebars.3a6d3e56.chunk.js.map": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_handlebars.3a6d3e56.chunk.js.map",
-    "react-syntax-highlighter_languages_refractor_haskell.21691e22.chunk.js.map": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_haskell.21691e22.chunk.js.map",
+    "react-syntax-highlighter_languages_refractor_haskell.fdc842ef.chunk.js.map": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_haskell.fdc842ef.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_haxe.b01c17fc.chunk.js.map": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_haxe.b01c17fc.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_hpkp.06d61880.chunk.js.map": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_hpkp.06d61880.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_hsts.501ca03c.chunk.js.map": "/Git-Cheatsheet/static/js/react-syntax-highlighter_languages_refractor_hsts.501ca03c.chunk.js.map",
@@ -330,6 +330,6 @@
   },
   "entrypoints": [
     "static/css/main.c0ab1b50.css",
-    "static/js/main.0afc68fb.js"
+    "static/js/main.ae7eb371.js"
   ]
 }
