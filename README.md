@@ -6,4 +6,4 @@ Don't lose your ty by looking for git commands. In this mini project I collected
 
 ## 😧 Want to try this? 
 
-### 🔗 Click here: https://shkholikov.github.io/Git-Cheatsheet
+### 🔗 Click here: [GIT-CHEATSHEET📓](https://shkholikov.github.io/Git-Cheatsheet)
